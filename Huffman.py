@@ -1,7 +1,7 @@
 __author__ = 'AISHWARYA SONTAKKE'
 
 """
-Author: AISHWARYA SONTAKKE as4897
+Author: AISHWARYA SONTAKKE
 
 This program constructs Huffman code for a given english text and encodes it.
 It also decodes the english text that has been encoded with Huffman code.
